@@ -6,7 +6,8 @@ Commandes pour push dans la branch main:
 	git commit -m"<un commentaire sur ce que vous avez fait>"
 	git push origin main
 
-commandes pour recup la branch du main: !!!À FAIRE À CHAQUE FOIS QUE L'ON TRAVAIL EN DÉBUT!!!
+!!!À FAIRE À CHAQUE FOIS QUE L'ON TRAVAIL EN DÉBUT!!!
+commandes pour recup la branch du main: 
 	git checkout main 					#s'assurer d'être dans la branch main
 	git pull origin main				#récup les modifs de tous
 
