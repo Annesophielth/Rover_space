@@ -1,4 +1,8 @@
 # Rover_space
+Normalement toutes les branches sont déjà créé:
+	git branch 		#pour voir toutes les branches
+
+
 Commandes pour push dans la branch main:
 
 	git checkout <votre branche>	
