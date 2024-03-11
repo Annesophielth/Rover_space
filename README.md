@@ -1,9 +1,18 @@
 # Rover_space
-Normalement toutes les branches sont déjà créé:
-	git branch 		#pour voir toutes les branches
+Il faut que vous vous créez vos propre branch de travail.
+Ça permet de copier toute la branch main et si ya un soucis de ne pas modifier d'un coup la branche main.
 
+Commande pour créer votre branche:
+
+	git checkout -b <nom de votre branch>
+	git branch #Pour connaitre toutes les branches
 
 Commandes pour push dans la branch main:
+
+	git checkout <nom de votre branche>
+	git add . 
+	git commit -m"< Ajout d'un comm sur ce que vous avez fait>"
+	
 
 	git checkout main	
 	git merge <nom de votre branche> 
