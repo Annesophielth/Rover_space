@@ -5,9 +5,8 @@ Normalement toutes les branches sont déjà créé:
 
 Commandes pour push dans la branch main:
 
-	git checkout <votre branche>	
-	git add . 
-	git commit -m"<un commentaire sur ce que vous avez fait>"
+	git checkout main	
+	git merge <nom de votre branche> 
 	git push origin main
 
 
@@ -16,7 +15,7 @@ Commandes pour push dans la branch main:
 commandes pour recup la branch du main: 
 !!!À FAIRE À CHAQUE FOIS QUE L'ON TRAVAIL EN DÉBUT!!!
 
-	git checkout main 					#s'assurer d'être dans la branch main
+	git checkout <nom branch> 					#s'assurer d'être dans la branch main
 	git pull origin main				#récup les modifs de tous
 
 
