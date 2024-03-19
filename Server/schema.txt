@@ -1,0 +1,26 @@
+!!! SI LE SERVEUR N'EST PAS ALLUMÉ MAIS QUE LE CLIENT CHERCHE À OUVRIR L'APP,
+		L'APP SE FERME TANT QUE LE SERVEUR N'EST PAS ALLUMÉ !!!
+
+LÉGENDE: - use case
+				 ° scénario
+
+ADMINISTRATEUR: #il peu intéragir avec toutes données à partir du serveur 
+	-Allumer/Éteindre le server:
+			°ALT: l'administrateur veut allumer le serveur
+							#l'administrateur appui sur le bouton
+							#le serveur se lance 
+			
+			°ALT: l'administrateur veut éteindre le serveur
+							#l'administrateur appui sur le bouton 
+							#le serveur s'éteind 
+							#envoie d'un message au client/app pour dire "le serveur se ferme"
+							
+							
+							
+	-Visualiser les données
+			°L'administrateur appuie sur le bouton "show data"
+			°L'administrateur choisi les données qu'il veut visualiser
+			°Visualisation des données triées apr date et heure
+
+			
+

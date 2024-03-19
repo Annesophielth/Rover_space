@@ -1,0 +1,6 @@
+CLIENT: #Intéragie avec l'appplication
+	-Effectuer une nouvelle simulation 
+	-Visualiser ses données
+	
+	
+
