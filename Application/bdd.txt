@@ -1,2 +1,2 @@
-password: 123
-username: anneso
+password: 
+username: 

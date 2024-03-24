@@ -4,6 +4,7 @@ import variables as var
 import accueil
 
 
+
 def quitter(event):
     var.root.destroy()
 
@@ -14,6 +15,7 @@ def quitter(event):
 #===========================================
 #CODE PRINCIPALE
 var.root = tk.Tk()
+var.root.configure(bg="#5c83d2")
 var.root.geometry("900x900")
 
 
